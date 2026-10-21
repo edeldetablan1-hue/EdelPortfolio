@@ -1,5 +1,6 @@
 services:
-  - type: static_site
+  - type: web
     name: edel-portfolio
+    env: static
     buildCommand: "dotnet publish -c Release -o release"
     staticPublishPath: "./release/wwwroot"
