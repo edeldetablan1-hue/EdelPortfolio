@@ -12,7 +12,18 @@
   "type": "commonjs",
   "dependencies": {
     "autoprefixer": "^10.6.1",
-    "postcss": "^8.5.31",
+    "postcss": "^8.5.31"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
     "tailwindcss": "^4.3.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edeldetablan1-hue/EdelPortfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edeldetablan1-hue/EdelPortfolio/issues"
+  },
+  "homepage": "https://github.com/edeldetablan1-hue/EdelPortfolio#readme"
 }
