@@ -1075,10 +1075,6 @@ C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\EdelPortfolio.dll
 C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\refint\EdelPortfolio.dll
 C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\EdelPortfolio.pdb
 C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\ref\EdelPortfolio.dll
-C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\wwwroot\_framework\EdelPortfolio.4pi6k42byo.pdb
-C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\wwwroot\_framework\EdelPortfolio.r6uugn7omm.wasm
-C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\wwwroot\_framework\EdelPortfolio.4pi6k42byo.pdb.gz
-C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\wwwroot\_framework\EdelPortfolio.r6uugn7omm.wasm.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\release\web.config
 C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\release\EdelPortfolio.staticwebassets.endpoints.json
 C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\release\package-lock.json
@@ -1089,7 +1085,11 @@ C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\release\release\wwwroot\_
 C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\release\wwwroot\sample-data\weather.json
 C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\release\wwwroot\_framework\blazor.boot.json
 C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\EdelPortfolio.sourcelink.json
-C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\compressed\zgdxa233b8-oht0plijor.gz
-C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\compressed\vq1ptvv1v5-r6uugn7omm.gz
-C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\compressed\a94x2ieknz-4pi6k42byo.gz
-C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\compressed\iifwiwj90y-sj3aivgfdb.gz
+C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\wwwroot\_framework\EdelPortfolio.1zql0xp9es.pdb
+C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\wwwroot\_framework\EdelPortfolio.bmtlznn3dy.wasm
+C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\wwwroot\_framework\EdelPortfolio.1zql0xp9es.pdb.gz
+C:\Users\rowena tablada\EdelPortfolio\bin\Debug\net9.0\wwwroot\_framework\EdelPortfolio.bmtlznn3dy.wasm.gz
+C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\compressed\zgdxa233b8-1zw55zutmx.gz
+C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\compressed\vq1ptvv1v5-bmtlznn3dy.gz
+C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\compressed\a94x2ieknz-1zql0xp9es.gz
+C:\Users\rowena tablada\EdelPortfolio\obj\Debug\net9.0\compressed\iifwiwj90y-un9tcllq92.gz
