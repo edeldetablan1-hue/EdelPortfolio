@@ -1,9 +1,9 @@
 {
   "mainAssemblyName": "EdelPortfolio",
   "resources": {
-    "hash": "sha256-O1/hRm+Et8ZXeyFEEgQu+kftgxk4DFkxnEf3FTL3Kfw=",
+    "hash": "sha256-VbAuT/vJZ0Ed2rUTavywHVRNn41L7bUwZlDtR9BHCTA=",
     "fingerprinting": {
-      "EdelPortfolio.tcyo42i8w1.wasm": "EdelPortfolio.wasm",
+      "EdelPortfolio.x572tf0mb3.wasm": "EdelPortfolio.wasm",
       "Microsoft.AspNetCore.Components.g2uf8wsg0m.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.5fnpqqr84r.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.0prlth0hc4.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -64,7 +64,7 @@
       "System.Runtime.InteropServices.JavaScript.f4ln4hfftw.wasm": "sha256-r+LQmgoVdHgFKWJvUNAR7HQZAtSw+xvBIQ6siSPsBNM="
     },
     "assembly": {
-      "EdelPortfolio.tcyo42i8w1.wasm": "sha256-E1Btsdd8CnOtB9J1g8FTLO6gEOXny2lrD2f1Njqzxn8=",
+      "EdelPortfolio.x572tf0mb3.wasm": "sha256-OxanY43w8TLUBCKvSo1lKryEVpDC/5nXCUy6GS3Cy2Y=",
       "Microsoft.AspNetCore.Components.g2uf8wsg0m.wasm": "sha256-CHLBdZ8lmGjukXC04ARQkEazSu2q0ffGzI959NNh0+4=",
       "Microsoft.AspNetCore.Components.Web.5fnpqqr84r.wasm": "sha256-0fT5DLMa1voamFmX5/f/aY8oct7a5CLEOHu2Tdn6oCA=",
       "Microsoft.AspNetCore.Components.WebAssembly.0prlth0hc4.wasm": "sha256-jB/Gf1i7eXuQqAzqY/ZONe+hrW3x94pYZlL+G0Cv7Co=",

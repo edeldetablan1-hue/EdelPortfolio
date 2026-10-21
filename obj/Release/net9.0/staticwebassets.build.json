@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0T2K84hjELps/D6/l1VmzjOYSw+ScPeDAyDDRlOuMZ8=",
+  "Hash": "EIu6RsP6BQGi++d9TPR7IeQe/uEl9o/e1isZSo2FSKo=",
   "Source": "EdelPortfolio",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "i0ex4ybasi",
-      "Integrity": "MkFQjDwPec0FpvqYHcSy93tsW6B/vH4zlCtyfpMGdUQ=",
+      "Fingerprint": "9zjxor37gi",
+      "Integrity": "ZTfX2jF5YXcemyBk5mygbrnMBfAIE6cNDphoHES4Q54=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net9.0\\blazor.boot.json"
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "3h5bh6gixi",
-      "Integrity": "d/k1mtYGcudaysBNNwZkkWW4Bj/1Ryn8xGpiQDoelGY=",
+      "Fingerprint": "zvzh0oyivr",
+      "Integrity": "78+XckM2roBH+AxUgqZTOAHUbCNvS2wt866l8zeWTfE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Release\\net9.0\\EdelPortfolio.pdb"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "tcyo42i8w1",
-      "Integrity": "E1Btsdd8CnOtB9J1g8FTLO6gEOXny2lrD2f1Njqzxn8=",
+      "Fingerprint": "x572tf0mb3",
+      "Integrity": "OxanY43w8TLUBCKvSo1lKryEVpDC/5nXCUy6GS3Cy2Y=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\webcil\\EdelPortfolio.wasm"
@@ -5477,12 +5477,12 @@
       "OriginalItemSpec": "C:\\Users\\rowena tablada\\EdelPortfolio\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\a94x2ieknz-3h5bh6gixi.gz",
+      "Identity": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\a94x2ieknz-zvzh0oyivr.gz",
       "SourceId": "EdelPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EdelPortfolio#[.{fingerprint=3h5bh6gixi}]!.pdb.gz",
+      "RelativePath": "_framework/EdelPortfolio#[.{fingerprint=zvzh0oyivr}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5491,8 +5491,8 @@
       "RelatedAsset": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\EdelPortfolio.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "m5wrwz2oqs",
-      "Integrity": "dni1T440pfTtwQlNa8Tooj7Vlv/nvvuryf9HUfnBJIQ=",
+      "Fingerprint": "gyztvcv25u",
+      "Integrity": "SPpryf1ynCkZwy9nBxSV1VwNSCd2o8501QzJxvUqi6c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\EdelPortfolio.pdb"
@@ -6716,7 +6716,7 @@
       "OriginalItemSpec": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\System.Net.Sockets.wasm"
     },
     {
-      "Identity": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\iifwiwj90y-i0ex4ybasi.gz",
+      "Identity": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\iifwiwj90y-9zjxor37gi.gz",
       "SourceId": "EdelPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\",
@@ -6730,8 +6730,8 @@
       "RelatedAsset": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "02tew4ucd0",
-      "Integrity": "mBpFbMwpBvINodQdLzAoemq7HMauNPqd/dWnTxZkVS8=",
+      "Fingerprint": "fv1nubmh9x",
+      "Integrity": "xQy/jIG2yV64JboDJxauryzZ2jk0rilASmDJa+dGdsM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8690,12 +8690,12 @@
       "OriginalItemSpec": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Metadata.wasm"
     },
     {
-      "Identity": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\vq1ptvv1v5-tcyo42i8w1.gz",
+      "Identity": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\vq1ptvv1v5-x572tf0mb3.gz",
       "SourceId": "EdelPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EdelPortfolio#[.{fingerprint=tcyo42i8w1}]!.wasm.gz",
+      "RelativePath": "_framework/EdelPortfolio#[.{fingerprint=x572tf0mb3}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8704,8 +8704,8 @@
       "RelatedAsset": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\EdelPortfolio.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hbbop4x0pw",
-      "Integrity": "s1d54VFicfvOpq05EjfsOiijqnSdxQqsB0oigZGXhwM=",
+      "Fingerprint": "eo7o6biwt2",
+      "Integrity": "3i7c93AGNGFToJhUjb2Fop4iQmh1zLyavZEAwimnAoU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\EdelPortfolio.wasm"
@@ -10726,7 +10726,46 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MkFQjDwPec0FpvqYHcSy93tsW6B/vH4zlCtyfpMGdUQ=\""
+          "Value": "\"ZTfX2jF5YXcemyBk5mygbrnMBfAIE6cNDphoHES4Q54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Oct 2026 13:55:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZTfX2jF5YXcemyBk5mygbrnMBfAIE6cNDphoHES4Q54="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/blazor.boot.json",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\iifwiwj90y-9zjxor37gi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000081241368"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12308"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xQy/jIG2yV64JboDJxauryzZ2jk0rilASmDJa+dGdsM=\""
         },
         {
           "Name": "Last-Modified",
@@ -10735,45 +10774,6 @@
         {
           "Name": "Cache-Control",
           "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-MkFQjDwPec0FpvqYHcSy93tsW6B/vH4zlCtyfpMGdUQ="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\iifwiwj90y-i0ex4ybasi.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000081254571"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12306"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mBpFbMwpBvINodQdLzAoemq7HMauNPqd/dWnTxZkVS8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -10789,19 +10789,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"MkFQjDwPec0FpvqYHcSy93tsW6B/vH4zlCtyfpMGdUQ=\""
+          "Value": "W/\"ZTfX2jF5YXcemyBk5mygbrnMBfAIE6cNDphoHES4Q54=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MkFQjDwPec0FpvqYHcSy93tsW6B/vH4zlCtyfpMGdUQ="
+          "Value": "sha256-ZTfX2jF5YXcemyBk5mygbrnMBfAIE6cNDphoHES4Q54="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\iifwiwj90y-i0ex4ybasi.gz",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\iifwiwj90y-9zjxor37gi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10810,7 +10810,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12306"
+          "Value": "12308"
         },
         {
           "Name": "Content-Type",
@@ -10818,11 +10818,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mBpFbMwpBvINodQdLzAoemq7HMauNPqd/dWnTxZkVS8=\""
+          "Value": "\"xQy/jIG2yV64JboDJxauryzZ2jk0rilASmDJa+dGdsM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Wed, 21 Oct 2026 13:28:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10840,7 +10840,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mBpFbMwpBvINodQdLzAoemq7HMauNPqd/dWnTxZkVS8="
+          "Value": "sha256-xQy/jIG2yV64JboDJxauryzZ2jk0rilASmDJa+dGdsM="
         }
       ]
     },
@@ -10906,7 +10906,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Fri, 17 Jan 2025 20:14:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10959,7 +10959,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Fri, 17 Jan 2025 20:14:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11051,7 +11051,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11112,7 +11112,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11204,7 +11204,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11304,7 +11304,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11365,7 +11365,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11418,7 +11418,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11502,7 +11502,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11555,7 +11555,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:16 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12335,7 +12335,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12396,7 +12396,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12533,7 +12533,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12586,7 +12586,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Thu, 16 Jan 2025 19:03:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12770,167 +12770,6 @@
       ]
     },
     {
-      "Route": "_framework/EdelPortfolio.3h5bh6gixi.pdb",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\EdelPortfolio.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "25676"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d/k1mtYGcudaysBNNwZkkWW4Bj/1Ryn8xGpiQDoelGY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:05 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3h5bh6gixi"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EdelPortfolio.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-d/k1mtYGcudaysBNNwZkkWW4Bj/1Ryn8xGpiQDoelGY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EdelPortfolio.3h5bh6gixi.pdb",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\a94x2ieknz-3h5bh6gixi.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000051623561"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19370"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dni1T440pfTtwQlNa8Tooj7Vlv/nvvuryf9HUfnBJIQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"d/k1mtYGcudaysBNNwZkkWW4Bj/1Ryn8xGpiQDoelGY=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3h5bh6gixi"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EdelPortfolio.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-d/k1mtYGcudaysBNNwZkkWW4Bj/1Ryn8xGpiQDoelGY="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EdelPortfolio.3h5bh6gixi.pdb.gz",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\a94x2ieknz-3h5bh6gixi.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19370"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"dni1T440pfTtwQlNa8Tooj7Vlv/nvvuryf9HUfnBJIQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3h5bh6gixi"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EdelPortfolio.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dni1T440pfTtwQlNa8Tooj7Vlv/nvvuryf9HUfnBJIQ="
-        }
-      ]
-    },
-    {
       "Route": "_framework/EdelPortfolio.pdb",
       "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\EdelPortfolio.pdb",
       "Selectors": [],
@@ -12949,11 +12788,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d/k1mtYGcudaysBNNwZkkWW4Bj/1Ryn8xGpiQDoelGY=\""
+          "Value": "\"78+XckM2roBH+AxUgqZTOAHUbCNvS2wt866l8zeWTfE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:05 GMT"
+          "Value": "Wed, 21 Oct 2026 13:55:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12963,13 +12802,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-d/k1mtYGcudaysBNNwZkkWW4Bj/1Ryn8xGpiQDoelGY="
+          "Value": "sha256-78+XckM2roBH+AxUgqZTOAHUbCNvS2wt866l8zeWTfE="
         }
       ]
     },
     {
       "Route": "_framework/EdelPortfolio.pdb",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\a94x2ieknz-3h5bh6gixi.gz",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\a94x2ieknz-zvzh0oyivr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -12988,11 +12827,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dni1T440pfTtwQlNa8Tooj7Vlv/nvvuryf9HUfnBJIQ=\""
+          "Value": "\"SPpryf1ynCkZwy9nBxSV1VwNSCd2o8501QzJxvUqi6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Wed, 21 Oct 2026 13:55:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13012,19 +12851,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"d/k1mtYGcudaysBNNwZkkWW4Bj/1Ryn8xGpiQDoelGY=\""
+          "Value": "W/\"78+XckM2roBH+AxUgqZTOAHUbCNvS2wt866l8zeWTfE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-d/k1mtYGcudaysBNNwZkkWW4Bj/1Ryn8xGpiQDoelGY="
+          "Value": "sha256-78+XckM2roBH+AxUgqZTOAHUbCNvS2wt866l8zeWTfE="
         }
       ]
     },
     {
       "Route": "_framework/EdelPortfolio.pdb.gz",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\a94x2ieknz-3h5bh6gixi.gz",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\a94x2ieknz-zvzh0oyivr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13041,11 +12880,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dni1T440pfTtwQlNa8Tooj7Vlv/nvvuryf9HUfnBJIQ=\""
+          "Value": "\"SPpryf1ynCkZwy9nBxSV1VwNSCd2o8501QzJxvUqi6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Wed, 21 Oct 2026 13:55:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13063,12 +12902,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dni1T440pfTtwQlNa8Tooj7Vlv/nvvuryf9HUfnBJIQ="
+          "Value": "sha256-SPpryf1ynCkZwy9nBxSV1VwNSCd2o8501QzJxvUqi6c="
         }
       ]
     },
     {
-      "Route": "_framework/EdelPortfolio.tcyo42i8w1.wasm",
+      "Route": "_framework/EdelPortfolio.wasm",
       "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\EdelPortfolio.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13086,40 +12925,32 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"E1Btsdd8CnOtB9J1g8FTLO6gEOXny2lrD2f1Njqzxn8=\""
+          "Value": "\"OxanY43w8TLUBCKvSo1lKryEVpDC/5nXCUy6GS3Cy2Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:06 GMT"
+          "Value": "Wed, 21 Oct 2026 13:55:33 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "tcyo42i8w1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EdelPortfolio.wasm"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-E1Btsdd8CnOtB9J1g8FTLO6gEOXny2lrD2f1Njqzxn8="
+          "Value": "sha256-OxanY43w8TLUBCKvSo1lKryEVpDC/5nXCUy6GS3Cy2Y="
         }
       ]
     },
     {
-      "Route": "_framework/EdelPortfolio.tcyo42i8w1.wasm",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\vq1ptvv1v5-tcyo42i8w1.gz",
+      "Route": "_framework/EdelPortfolio.wasm",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\vq1ptvv1v5-x572tf0mb3.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000092464170"
+          "Quality": "0.000092429984"
         }
       ],
       "ResponseHeaders": [
@@ -13129,19 +12960,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10814"
+          "Value": "10818"
         },
         {
           "Name": "ETag",
-          "Value": "\"s1d54VFicfvOpq05EjfsOiijqnSdxQqsB0oigZGXhwM=\""
+          "Value": "\"3i7c93AGNGFToJhUjb2Fop4iQmh1zLyavZEAwimnAoU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Wed, 21 Oct 2026 13:55:34 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -13157,27 +12988,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"E1Btsdd8CnOtB9J1g8FTLO6gEOXny2lrD2f1Njqzxn8=\""
+          "Value": "W/\"OxanY43w8TLUBCKvSo1lKryEVpDC/5nXCUy6GS3Cy2Y=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "tcyo42i8w1"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EdelPortfolio.wasm"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-E1Btsdd8CnOtB9J1g8FTLO6gEOXny2lrD2f1Njqzxn8="
+          "Value": "sha256-OxanY43w8TLUBCKvSo1lKryEVpDC/5nXCUy6GS3Cy2Y="
         }
       ]
     },
     {
-      "Route": "_framework/EdelPortfolio.tcyo42i8w1.wasm.gz",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\vq1ptvv1v5-tcyo42i8w1.gz",
+      "Route": "_framework/EdelPortfolio.wasm.gz",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\vq1ptvv1v5-x572tf0mb3.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13186,7 +13009,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10814"
+          "Value": "10818"
         },
         {
           "Name": "Content-Type",
@@ -13194,11 +13017,164 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"s1d54VFicfvOpq05EjfsOiijqnSdxQqsB0oigZGXhwM=\""
+          "Value": "\"3i7c93AGNGFToJhUjb2Fop4iQmh1zLyavZEAwimnAoU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Wed, 21 Oct 2026 13:55:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3i7c93AGNGFToJhUjb2Fop4iQmh1zLyavZEAwimnAoU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EdelPortfolio.x572tf0mb3.wasm",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\EdelPortfolio.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35093"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OxanY43w8TLUBCKvSo1lKryEVpDC/5nXCUy6GS3Cy2Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Oct 2026 13:55:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x572tf0mb3"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EdelPortfolio.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OxanY43w8TLUBCKvSo1lKryEVpDC/5nXCUy6GS3Cy2Y="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EdelPortfolio.x572tf0mb3.wasm",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\vq1ptvv1v5-x572tf0mb3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000092429984"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10818"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3i7c93AGNGFToJhUjb2Fop4iQmh1zLyavZEAwimnAoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Oct 2026 13:55:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"OxanY43w8TLUBCKvSo1lKryEVpDC/5nXCUy6GS3Cy2Y=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x572tf0mb3"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EdelPortfolio.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OxanY43w8TLUBCKvSo1lKryEVpDC/5nXCUy6GS3Cy2Y="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EdelPortfolio.x572tf0mb3.wasm.gz",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\vq1ptvv1v5-x572tf0mb3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3i7c93AGNGFToJhUjb2Fop4iQmh1zLyavZEAwimnAoU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 Oct 2026 13:55:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13216,7 +13192,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tcyo42i8w1"
+          "Value": "x572tf0mb3"
         },
         {
           "Name": "label",
@@ -13224,13 +13200,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-s1d54VFicfvOpq05EjfsOiijqnSdxQqsB0oigZGXhwM="
+          "Value": "sha256-3i7c93AGNGFToJhUjb2Fop4iQmh1zLyavZEAwimnAoU="
         }
       ]
     },
     {
-      "Route": "_framework/EdelPortfolio.wasm",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\EdelPortfolio.wasm",
+      "Route": "_framework/EdelPortfolio.zvzh0oyivr.pdb",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\bin\\Release\\net9.0\\wwwroot\\_framework\\EdelPortfolio.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13239,40 +13215,48 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "35093"
+          "Value": "25676"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"E1Btsdd8CnOtB9J1g8FTLO6gEOXny2lrD2f1Njqzxn8=\""
+          "Value": "\"78+XckM2roBH+AxUgqZTOAHUbCNvS2wt866l8zeWTfE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:06 GMT"
+          "Value": "Wed, 21 Oct 2026 13:55:33 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "zvzh0oyivr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EdelPortfolio.pdb"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-E1Btsdd8CnOtB9J1g8FTLO6gEOXny2lrD2f1Njqzxn8="
+          "Value": "sha256-78+XckM2roBH+AxUgqZTOAHUbCNvS2wt866l8zeWTfE="
         }
       ]
     },
     {
-      "Route": "_framework/EdelPortfolio.wasm",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\vq1ptvv1v5-tcyo42i8w1.gz",
+      "Route": "_framework/EdelPortfolio.zvzh0oyivr.pdb",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\a94x2ieknz-zvzh0oyivr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000092464170"
+          "Quality": "0.000051623561"
         }
       ],
       "ResponseHeaders": [
@@ -13282,19 +13266,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10814"
+          "Value": "19370"
         },
         {
           "Name": "ETag",
-          "Value": "\"s1d54VFicfvOpq05EjfsOiijqnSdxQqsB0oigZGXhwM=\""
+          "Value": "\"SPpryf1ynCkZwy9nBxSV1VwNSCd2o8501QzJxvUqi6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Wed, 21 Oct 2026 13:55:34 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -13306,23 +13290,31 @@
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "W/\"E1Btsdd8CnOtB9J1g8FTLO6gEOXny2lrD2f1Njqzxn8=\""
+          "Value": "W/\"78+XckM2roBH+AxUgqZTOAHUbCNvS2wt866l8zeWTfE=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "zvzh0oyivr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EdelPortfolio.pdb"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-E1Btsdd8CnOtB9J1g8FTLO6gEOXny2lrD2f1Njqzxn8="
+          "Value": "sha256-78+XckM2roBH+AxUgqZTOAHUbCNvS2wt866l8zeWTfE="
         }
       ]
     },
     {
-      "Route": "_framework/EdelPortfolio.wasm.gz",
-      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\vq1ptvv1v5-tcyo42i8w1.gz",
+      "Route": "_framework/EdelPortfolio.zvzh0oyivr.pdb.gz",
+      "AssetFile": "C:\\Users\\rowena tablada\\EdelPortfolio\\obj\\Release\\net9.0\\compressed\\a94x2ieknz-zvzh0oyivr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13331,23 +13323,23 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10814"
+          "Value": "19370"
         },
         {
           "Name": "Content-Type",
-          "Value": "application/wasm"
+          "Value": "application/octet-stream"
         },
         {
           "Name": "ETag",
-          "Value": "\"s1d54VFicfvOpq05EjfsOiijqnSdxQqsB0oigZGXhwM=\""
+          "Value": "\"SPpryf1ynCkZwy9nBxSV1VwNSCd2o8501QzJxvUqi6c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Oct 2026 13:28:08 GMT"
+          "Value": "Wed, 21 Oct 2026 13:55:34 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -13360,8 +13352,16 @@
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "zvzh0oyivr"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EdelPortfolio.pdb.gz"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-s1d54VFicfvOpq05EjfsOiijqnSdxQqsB0oigZGXhwM="
+          "Value": "sha256-SPpryf1ynCkZwy9nBxSV1VwNSCd2o8501QzJxvUqi6c="
         }
       ]
     },

@@ -2,5 +2,5 @@ services:
   - type: web
     name: edel-portfolio
     env: static
-    buildCommand: "dotnet publish -c Release -o release"
+    buildCommand: "echo 'Build skipped, using published static files'"
     staticPublishPath: "./release/wwwroot"

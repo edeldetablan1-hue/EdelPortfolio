@@ -6,8 +6,6 @@ C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\dotn
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\dotnet.native.tr0cyonrwt.wasm
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.tsg4gsv2hg.js
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.js.map
-C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\EdelPortfolio.3h5bh6gixi.pdb
-C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\EdelPortfolio.tcyo42i8w1.wasm
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
@@ -247,7 +245,6 @@ C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\Syst
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\System.ComponentModel.Primitives.k9taspcy5h.wasm.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\System.IO.Pipelines.azvmy69isl.wasm.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\System.Runtime.Handles.mhaxazpdw0.wasm.gz
-C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\EdelPortfolio.3h5bh6gixi.pdb.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\System.Security.Cryptography.7l7nzdtevg.wasm.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\System.Runtime.Serialization.Xml.ow7oak33im.wasm.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\System.Diagnostics.Process.nm6e2slhgg.wasm.gz
@@ -370,7 +367,6 @@ C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\Syst
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.9j9suo3916.wasm.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\System.Xml.XmlDocument.bsbtqmbjoe.wasm.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.oekk764ms4.wasm.gz
-C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\EdelPortfolio.tcyo42i8w1.wasm.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\System.Net.Quic.s4ubipsvtg.wasm.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.vznpee190z.wasm.gz
 C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\dotnet.native.tr0cyonrwt.wasm.gz
@@ -1067,9 +1063,6 @@ C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\compressed\27dnqnykp8-6
 C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\compressed\smic58379f-tjcz0u77k5.gz
 C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\compressed\zsjl0777y7-tptq2av103.gz
 C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\compressed\j87cwekzc7-lfu7j35m59.gz
-C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\compressed\vq1ptvv1v5-tcyo42i8w1.gz
-C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\compressed\a94x2ieknz-3h5bh6gixi.gz
-C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\compressed\iifwiwj90y-i0ex4ybasi.gz
 C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\staticwebassets.development.json
 C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\staticwebassets.build.endpoints.json
@@ -1084,3 +1077,15 @@ C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\EdelPortfolio.dll
 C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\refint\EdelPortfolio.dll
 C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\EdelPortfolio.pdb
 C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\ref\EdelPortfolio.dll
+C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\EdelPortfolio.zvzh0oyivr.pdb
+C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\EdelPortfolio.x572tf0mb3.wasm
+C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\EdelPortfolio.zvzh0oyivr.pdb.gz
+C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\wwwroot\_framework\EdelPortfolio.x572tf0mb3.wasm.gz
+C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\release\web.config
+C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\release\EdelPortfolio.staticwebassets.endpoints.json
+C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\release\package-lock.json
+C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\release\wwwroot\sample-data\weather.json
+C:\Users\rowena tablada\EdelPortfolio\bin\Release\net9.0\release\wwwroot\_framework\blazor.boot.json
+C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\compressed\vq1ptvv1v5-x572tf0mb3.gz
+C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\compressed\a94x2ieknz-zvzh0oyivr.gz
+C:\Users\rowena tablada\EdelPortfolio\obj\Release\net9.0\compressed\iifwiwj90y-9zjxor37gi.gz
