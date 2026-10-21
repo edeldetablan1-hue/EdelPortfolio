@@ -1,0 +1,2 @@
+C:\Users\rowena tablada\EdelPortfolio\release\package-lock.json
+C:\Users\rowena tablada\EdelPortfolio\release\web.config
