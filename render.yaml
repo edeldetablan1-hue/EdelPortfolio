@@ -1,5 +1,4 @@
-services:
-  - type: static
-    name: edel-portfolio
-    buildCommand: "dotnet publish -c Release -o release"
-    staticPublishPath: "./release/wwwroot"
+type: static
+name: edel-portfolio
+buildCommand: "dotnet publish -c Release -o release"
+staticPublishPath: "./release/wwwroot"
