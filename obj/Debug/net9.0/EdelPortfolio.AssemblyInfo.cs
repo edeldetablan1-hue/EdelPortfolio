@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EdelPortfolio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18e6fd734a65cabf6773bdcf5856d8d2684ecab5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7771cd8d7fe677408f242e5d4a92c01512ce6f05")]
 [assembly: System.Reflection.AssemblyProductAttribute("EdelPortfolio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EdelPortfolio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
